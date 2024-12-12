@@ -54,7 +54,7 @@ style.css
 - Open the ```index.html``` file in your browser:
   - Right-click on index.html and select Open with > [Your Browser].
 - Alternatively, serve the project using a live server:
-  - If you’re using VS Code, install the Live Server extension and right-click index.html, then select Open with Live Server.
+  - If you’re using VS Code, install the Live Server extension and right-click ```index.html```, then select Open with Live Server.
 
 **2.Viewing the Project:**
 
